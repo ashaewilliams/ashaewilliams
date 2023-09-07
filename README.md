@@ -1,4 +1,7 @@
-# Hi there 👋
+# <p align = "center"> Hi! </p>
+## <p align="center">  ![stitch-headband-pixel-sticker-b0xcloq0ad8e968n](https://github.com/ashaewilliams/ashaewilliams/assets/144371700/793b6ac2-ada2-4598-8fec-5d1bd434c32c)
+</p>
+
 ## I'm Ashae, a self-taught Data Analyst and SQL Lover by day, and pixel wizard by night! 
 ### ✨ About Me in 30 Secs ✨
 ```
