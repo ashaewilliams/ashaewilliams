@@ -1,15 +1,16 @@
-# <p align = "center"> Hi! </p>
-## <p align="center">  ![stitch-headband-pixel-sticker-b0xcloq0ad8e968n](https://github.com/ashaewilliams/ashaewilliams/assets/144371700/793b6ac2-ada2-4598-8fec-5d1bd434c32c)
+
+## <p align="center">  <img src = "https://github.com/ashaewilliams/ashaewilliams/assets/144371700/793b6ac2-ada2-4598-8fec-5d1bd434c32c" width = "200" height = "200" >
 </p>
 
-## I'm Ashae, a self-taught Data Analyst and SQL Lover by day, and pixel wizard by night! 
-### ✨ About Me in 30 Secs ✨
-```
+## Hi! I'm Ashae, a self-taught Data Analyst and SQL Lover by day, and pixel wizard by night! 
+###  <p align = "center"> ✨ About Me in 30 Secs ✨ </p>
+
+ ```
  👩🏾‍💼 Administrative background + MPA with 10 years of public organization experience
  📊 Transitioned to Data Analytics in December 2022 
  📚 Life-long learner - I self-taught myself SQL, R, and Tableau
- ⚡ I've been playing Sims for 15 years
-```
+ ⚡ I've been playing Sims for 15 years 
+``` 
 
 
 
