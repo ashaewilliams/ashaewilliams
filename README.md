@@ -1,5 +1,5 @@
 
-## <p align="center">  <img src = "https://github.com/ashaewilliams/ashaewilliams/assets/144371700/793b6ac2-ada2-4598-8fec-5d1bd434c32c" width = "200" height = "200" >
+## <p align="center">  <img src = "https://github.com/ashaewilliams/ashaewilliams/assets/144371700/2a211175-579a-4033-9acc-b71336132143" width = "200" height = "200" >
 </p>
 
 ## Hi! I'm Ashae, a self-taught Data Analyst and SQL Lover by day, and pixel wizard by night! 
