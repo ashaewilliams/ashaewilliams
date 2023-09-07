@@ -1,8 +1,11 @@
 ## Hi there 👋
-### Data magician by day, pixel wizard by night! ✨
-👩🏾Pronouns: She/Her
-✉Email me: ashaeimani@gmail.com
-⚡ Fun Fact: I've been playing Sims for 15 years
+### I'm Ashae, a self-taught Data Analyst and SQL Lover by day, and pixel wizard by night! 
+## ✨ About Me in 30 Secs ✨
+👩🏾 Administrative background + MPA with 10 years of public organization experience
+📊 Transitioned to Data Analytics in December 2022 
+📚 Life-long learner - I self-taught myself SQL, R, and Tableau
+⚡ I've been playing Sims for 15 years
+
 
 
 <!--
